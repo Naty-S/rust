@@ -1,0 +1,3 @@
+[submodule "guessing-game"]
+	path = guessing-game
+	url = https://github.com/Naty-S/guessing-game.git
